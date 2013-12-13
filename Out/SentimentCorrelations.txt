@@ -1,0 +1,6 @@
+﻿Age	-0.0078
+Rating	0.0001
+Topic probability	0.038
+Author rating	-0.0231
+Author efficiency	0.0011
+
